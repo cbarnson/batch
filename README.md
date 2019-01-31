@@ -3,7 +3,7 @@
 # Batch
 > Scripts for Windows CLI
 
-TODO: Give a brief description of this project.
+This is a collection of batch programs (`.bat`, `.cmd`) you can use on Windows for the command-line-inclined.  
 
 ## Installing / Getting started
 
